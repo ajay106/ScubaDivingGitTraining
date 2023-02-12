@@ -1,0 +1,12 @@
+package saucedemoPage;
+
+import org.openqa.selenium.WebDriver;
+
+public class SaucedemoLoginPage {
+	WebDriver driver;
+	public SaucedemoLoginPage(driver) {
+		this.driver=driver;
+		
+	}
+
+}

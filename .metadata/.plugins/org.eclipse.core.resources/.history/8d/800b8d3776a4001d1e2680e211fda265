@@ -1,0 +1,10 @@
+package saucedemoTest;
+
+public class SaucedemoLoginTest {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}

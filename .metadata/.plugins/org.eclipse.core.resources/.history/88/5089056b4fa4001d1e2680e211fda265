@@ -1,0 +1,10 @@
+/**
+ * 
+ */
+/**
+ * @author ajays
+ *
+ */
+module SeleniumPractice {
+	requires org.seleniumhq.selenium.api;
+}
